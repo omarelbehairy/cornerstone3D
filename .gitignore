@@ -56,3 +56,4 @@ coverage/
 /playwright/.cache/
 /tests/test-results/
 /tests/playwright-report/
+.qodo
